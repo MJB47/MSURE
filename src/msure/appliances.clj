@@ -46,10 +46,10 @@
   (atom {:dishwasher dish-washer
          :washingmachine washing-machine
          :dryer dryer
-         :dw dish-washer
-         :wm washing-machine
-         :dry dryer
-         :dw2 dish-washer
-         :wm2 washing-machine
-         :dry2 dryer
+         ; :dw dish-washer
+         ; :wm washing-machine
+         ; :dry dryer
+         ; :dw2 dish-washer
+         ; :wm2 washing-machine
+         ; :dry2 dryer
          }))
